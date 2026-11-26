@@ -1,0 +1,60 @@
+{
+  "cor": "#E8702A",
+  "selos": [
+    { "arquivo": "selo_claude_code_101.png", "de": 4.55, "ate": 6.30, "x": 790, "y": 520 },
+    { "arquivo": "selo_claude_101.png", "de": 34.91, "ate": 37.12, "x": 820, "y": 150 },
+    { "arquivo": "selo_databricks_fundamentals.png", "de": 37.89, "ate": 42.65, "x": 585, "y": 105 },
+    { "arquivo": "selo_claude_code_in_action.png", "de": 53.91, "ate": 60.12, "x": 585, "y": 105 }
+  ],
+  "capitulos": [
+    { "id": "A", "de": 0, "ate": 6.70, "tema": "light", "rosto": "card-fora", "itens": [
+      { "tipo": "abertura", "pequeno": "concluí", "grande": "4 formações", "etiqueta": "IA e dados" }
+    ]},
+    { "id": "B", "de": 6.70, "ate": 17.80, "tema": "dark", "rosto": "circle", "itens": [
+      { "tipo": "titulo", "html": "como <b>não</b><br>usar IA", "de": 6.95, "ate": 14.40 },
+      { "tipo": "titulo", "html": "como <b>usar</b><br>IA bem", "de": 14.40 },
+      { "tipo": "chat", "de": 10.9, "topo": 470, "altura": 800, "passos": [
+        { "de": 10.9, "ate": 14.40, "pedido": "faz um relatório", "digitaDe": 11.57, "digitaAte": 12.45,
+          "resposta": "Aqui está o seu relatório: as vendas melhoraram bastante neste período e vários indicadores mostram uma evolução positiva…", "respostaDe": 13.05,
+          "selo": { "texto": "aceito sem ler", "tipo": "ruim", "de": 13.65 } },
+        { "de": 14.40, "pedido": "Resumo em 5 linhas para a diretoria, com as fontes", "digitaDe": 14.87, "digitaAte": 16.40,
+          "resposta": "1. Receita +12% · fonte: ERP\n2. Churn estável · fonte: CRM…", "respostaDe": 15.95,
+          "selo": { "texto": "revisar o resultado", "tipo": "bom", "de": 16.43 } }
+      ]}
+    ]},
+    { "id": "C", "de": 17.80, "ate": 30.67, "tema": "light", "rosto": "circle", "itens": [
+      { "tipo": "titulo", "html": "decisões de<br><b>contexto</b>", "de": 18.0 },
+      { "tipo": "lista", "topo": 470, "linhas": [
+        { "texto": "Que acessos liberar", "etiqueta": "ACESSOS", "de": 22.29, "cor": "cinza" },
+        { "texto": "Quanto esforço fazer", "etiqueta": "ESFORÇO", "de": 23.93, "cor": "ambar" },
+        { "texto": "Que escolhas tomar", "etiqueta": "ESCOLHAS", "de": 26.15, "cor": "laranja" },
+        { "texto": "O que conta como feito", "etiqueta": "CONCLUÍDO", "de": 28.53, "cor": "preto" }
+      ]}
+    ]},
+    { "id": "D", "de": 30.67, "ate": 37.47, "tema": "full", "rosto": "full", "itens": [
+      { "tipo": "etiqueta", "texto": "quem decide", "de": 32.27, "ate": 36.45 },
+      { "tipo": "etiqueta", "texto": "a base", "de": 36.45, "ate": 37.47 }
+    ]},
+    { "id": "E", "de": 37.47, "ate": 50.63, "tema": "dark", "rosto": "circle", "itens": [
+      { "tipo": "titulo", "html": "na <b>Databricks</b>", "de": 37.8, "ate": 39.13 },
+      { "tipo": "titulo", "html": "<b>Lakehouse</b><br>resolve o caos", "de": 39.13, "ate": 48.5 },
+      { "tipo": "titulo", "html": "peça <b>chave</b>", "de": 48.5 },
+      { "tipo": "diagrama", "chips": ["planilhas", "ERP", "APIs", "logs", "CRM", "arquivos"],
+        "espalhaDe": 40.47, "intervalo": 0.3, "juntaDe": 43.61, "hubTitulo": "LAKEHOUSE",
+        "usuarios": ["BI", "IA", "apps"], "usuariosDe": 46.43,
+        "finalDe": 48.5, "finalTexto": "Engenharia<br>de dados", "prontoTexto": "base pronta ✓", "prontoDe": 50.15 }
+    ]},
+    { "id": "G", "de": 50.63, "ate": 59.90, "tema": "light", "rosto": "circle", "itens": [
+      { "tipo": "titulo", "html": "próximos<br><b>passos</b>", "de": 51.69 },
+      { "tipo": "terminal", "de": 51.95, "arquivo": "projeto_ia_dados.py", "topo": 470, "altura": 790, "linhas": [
+        { "texto": "==== PRÓXIMO PASSO ====", "de": 52.2, "destaque": true },
+        { "texto": "Próximo: projeto com IA e dados", "prefixo": "> ", "de": 53.27, "digitaAte": 55.9 },
+        { "texto": "IA <-> dados: ", "fim": "conversando", "de": 57.29 },
+        { "texto": "Entrega: produto final", "fim": "OK", "de": 58.59 }
+      ]}
+    ]},
+    { "id": "H", "de": 59.90, "ate": 61.40, "tema": "dark", "rosto": "card", "itens": [
+      { "tipo": "fecho", "pequeno": "me", "grande": "segue", "pilula": "github.com/itsmarcosabreu" }
+    ]}
+  ]
+}

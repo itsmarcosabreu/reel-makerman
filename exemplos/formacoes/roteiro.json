@@ -1,0 +1,1328 @@
+[
+ {
+  "cena": 1,
+  "inicio": 0.0,
+  "fim": 6.58,
+  "duracao": 6.58,
+  "take": "131755",
+  "origem": [
+   1.45,
+   8.03
+  ],
+  "fala": "Sumi por aqui, mas não foi à toa. Nesses últimos dias concluí quatro formações de IA e dados.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 0.15,
+    "fim": 1.43,
+    "palavras": [
+     {
+      "texto": "Sumi",
+      "t": 0.15,
+      "marca": true
+     },
+     {
+      "texto": "por",
+      "t": 0.81,
+      "marca": false
+     },
+     {
+      "texto": "aqui,",
+      "t": 1.07,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 1.43,
+    "fim": 2.29,
+    "palavras": [
+     {
+      "texto": "mas",
+      "t": 1.43,
+      "marca": false
+     },
+     {
+      "texto": "não",
+      "t": 1.69,
+      "marca": false
+     },
+     {
+      "texto": "foi",
+      "t": 1.93,
+      "marca": false
+     },
+     {
+      "texto": "à",
+      "t": 2.11,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 2.29,
+    "fim": 3.35,
+    "palavras": [
+     {
+      "texto": "toa.",
+      "t": 2.29,
+      "marca": false
+     },
+     {
+      "texto": "Nesses",
+      "t": 2.77,
+      "marca": false
+     },
+     {
+      "texto": "últimos",
+      "t": 2.99,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 3.35,
+    "fim": 4.55,
+    "palavras": [
+     {
+      "texto": "dias",
+      "t": 3.35,
+      "marca": false
+     },
+     {
+      "texto": "concluí",
+      "t": 3.71,
+      "marca": false
+     },
+     {
+      "texto": "quatro",
+      "t": 4.19,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 4.55,
+    "fim": 6.13,
+    "palavras": [
+     {
+      "texto": "formações",
+      "t": 4.55,
+      "marca": true
+     },
+     {
+      "texto": "de",
+      "t": 5.17,
+      "marca": false
+     },
+     {
+      "texto": "IA",
+      "t": 5.43,
+      "marca": false
+     },
+     {
+      "texto": "e",
+      "t": 5.59,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 6.13,
+    "fim": 6.58,
+    "palavras": [
+     {
+      "texto": "dados.",
+      "t": 6.13,
+      "marca": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 2,
+  "inicio": 6.88,
+  "fim": 14.26,
+  "duracao": 7.38,
+  "take": "131755",
+  "origem": [
+   8.37,
+   15.75
+  ],
+  "fala": "Nas formações da Anthropic, o principal aprendizado foi que usar IA bem não é pedir qualquer coisa e aceitar a resposta.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 7.03,
+    "fim": 8.37,
+    "palavras": [
+     {
+      "texto": "Nas",
+      "t": 7.03,
+      "marca": false
+     },
+     {
+      "texto": "formações",
+      "t": 7.15,
+      "marca": false
+     },
+     {
+      "texto": "da",
+      "t": 7.61,
+      "marca": false
+     },
+     {
+      "texto": "Anthropic,",
+      "t": 7.81,
+      "marca": true
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 8.37,
+    "fim": 9.55,
+    "palavras": [
+     {
+      "texto": "o",
+      "t": 8.37,
+      "marca": false
+     },
+     {
+      "texto": "principal",
+      "t": 8.55,
+      "marca": false
+     },
+     {
+      "texto": "aprendizado",
+      "t": 8.87,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 9.55,
+    "fim": 10.57,
+    "palavras": [
+     {
+      "texto": "foi",
+      "t": 9.55,
+      "marca": false
+     },
+     {
+      "texto": "que",
+      "t": 9.77,
+      "marca": false
+     },
+     {
+      "texto": "usar",
+      "t": 9.95,
+      "marca": false
+     },
+     {
+      "texto": "IA",
+      "t": 10.17,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 10.57,
+    "fim": 11.93,
+    "palavras": [
+     {
+      "texto": "bem",
+      "t": 10.57,
+      "marca": false
+     },
+     {
+      "texto": "não",
+      "t": 10.91,
+      "marca": false
+     },
+     {
+      "texto": "é",
+      "t": 11.43,
+      "marca": false
+     },
+     {
+      "texto": "pedir",
+      "t": 11.57,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 11.93,
+    "fim": 13.47,
+    "palavras": [
+     {
+      "texto": "qualquer",
+      "t": 11.93,
+      "marca": false
+     },
+     {
+      "texto": "coisa",
+      "t": 12.39,
+      "marca": false
+     },
+     {
+      "texto": "e",
+      "t": 12.83,
+      "marca": false
+     },
+     {
+      "texto": "aceitar",
+      "t": 13.11,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 13.47,
+    "fim": 14.26,
+    "palavras": [
+     {
+      "texto": "a",
+      "t": 13.47,
+      "marca": false
+     },
+     {
+      "texto": "resposta.",
+      "t": 13.65,
+      "marca": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 3,
+  "inicio": 14.56,
+  "fim": 17.68,
+  "duracao": 3.12,
+  "take": "131755",
+  "origem": [
+   16.07,
+   19.19
+  ],
+  "fala": "É pedir com clareza e revisar o resultado.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 14.71,
+    "fim": 15.59,
+    "palavras": [
+     {
+      "texto": "É",
+      "t": 14.71,
+      "marca": false
+     },
+     {
+      "texto": "pedir",
+      "t": 14.87,
+      "marca": false
+     },
+     {
+      "texto": "com",
+      "t": 15.23,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 15.59,
+    "fim": 16.85,
+    "palavras": [
+     {
+      "texto": "clareza",
+      "t": 15.59,
+      "marca": true
+     },
+     {
+      "texto": "e",
+      "t": 16.11,
+      "marca": false
+     },
+     {
+      "texto": "revisar",
+      "t": 16.43,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 16.85,
+    "fim": 17.68,
+    "palavras": [
+     {
+      "texto": "o",
+      "t": 16.85,
+      "marca": false
+     },
+     {
+      "texto": "resultado.",
+      "t": 17.15,
+      "marca": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 4,
+  "inicio": 17.98,
+  "fim": 30.52,
+  "duracao": 12.54,
+  "take": "131755",
+  "origem": [
+   19.53,
+   32.07
+  ],
+  "fala": "A IA depende de contexto e isso traz algumas decisões. Que acessos liberar, quanto esforço ela deve fazer, que escolhas tomar e o que conta como concluído naquele pedido.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 18.13,
+    "fim": 19.13,
+    "palavras": [
+     {
+      "texto": "A",
+      "t": 18.13,
+      "marca": false
+     },
+     {
+      "texto": "IA",
+      "t": 18.29,
+      "marca": false
+     },
+     {
+      "texto": "depende",
+      "t": 18.51,
+      "marca": false
+     },
+     {
+      "texto": "de",
+      "t": 18.87,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 19.13,
+    "fim": 20.41,
+    "palavras": [
+     {
+      "texto": "contexto",
+      "t": 19.13,
+      "marca": true
+     },
+     {
+      "texto": "e",
+      "t": 19.63,
+      "marca": false
+     },
+     {
+      "texto": "isso",
+      "t": 19.91,
+      "marca": false
+     },
+     {
+      "texto": "traz",
+      "t": 20.21,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 20.41,
+    "fim": 21.53,
+    "palavras": [
+     {
+      "texto": "algumas",
+      "t": 20.41,
+      "marca": false
+     },
+     {
+      "texto": "decisões.",
+      "t": 20.91,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 21.53,
+    "fim": 23.89,
+    "palavras": [
+     {
+      "texto": "Que",
+      "t": 21.53,
+      "marca": false
+     },
+     {
+      "texto": "acessos",
+      "t": 22.29,
+      "marca": true
+     },
+     {
+      "texto": "liberar,",
+      "t": 22.75,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 23.89,
+    "fim": 24.85,
+    "palavras": [
+     {
+      "texto": "quanto",
+      "t": 23.89,
+      "marca": false
+     },
+     {
+      "texto": "esforço",
+      "t": 23.93,
+      "marca": false
+     },
+     {
+      "texto": "ela",
+      "t": 24.45,
+      "marca": false
+     },
+     {
+      "texto": "deve",
+      "t": 24.65,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 24.85,
+    "fim": 26.97,
+    "palavras": [
+     {
+      "texto": "fazer,",
+      "t": 24.85,
+      "marca": false
+     },
+     {
+      "texto": "que",
+      "t": 26.13,
+      "marca": false
+     },
+     {
+      "texto": "escolhas",
+      "t": 26.15,
+      "marca": false
+     },
+     {
+      "texto": "tomar",
+      "t": 26.51,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 7,
+    "inicio": 26.97,
+    "fim": 27.85,
+    "palavras": [
+     {
+      "texto": "e",
+      "t": 26.97,
+      "marca": false
+     },
+     {
+      "texto": "o",
+      "t": 27.23,
+      "marca": false
+     },
+     {
+      "texto": "que",
+      "t": 27.35,
+      "marca": false
+     },
+     {
+      "texto": "conta",
+      "t": 27.57,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 8,
+    "inicio": 27.85,
+    "fim": 30.52,
+    "palavras": [
+     {
+      "texto": "como",
+      "t": 27.85,
+      "marca": false
+     },
+     {
+      "texto": "concluído",
+      "t": 28.53,
+      "marca": true
+     },
+     {
+      "texto": "naquele",
+      "t": 29.29,
+      "marca": false
+     },
+     {
+      "texto": "pedido.",
+      "t": 29.91,
+      "marca": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 5,
+  "inicio": 30.82,
+  "fim": 37.34,
+  "duracao": 6.52,
+  "take": "131801",
+  "origem": [
+   0.85,
+   7.37
+  ],
+  "fala": "No fim, quem decide continua sendo a gente, e pra IA funcionar bem, ela precisa de alguma base.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 30.97,
+    "fim": 32.27,
+    "palavras": [
+     {
+      "texto": "No",
+      "t": 30.97,
+      "marca": false
+     },
+     {
+      "texto": "fim,",
+      "t": 31.53,
+      "marca": false
+     },
+     {
+      "texto": "quem",
+      "t": 32.13,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 32.27,
+    "fim": 33.63,
+    "palavras": [
+     {
+      "texto": "decide",
+      "t": 32.27,
+      "marca": false
+     },
+     {
+      "texto": "continua",
+      "t": 32.73,
+      "marca": false
+     },
+     {
+      "texto": "sendo",
+      "t": 33.25,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 33.63,
+    "fim": 34.61,
+    "palavras": [
+     {
+      "texto": "a",
+      "t": 33.63,
+      "marca": false
+     },
+     {
+      "texto": "gente,",
+      "t": 33.87,
+      "marca": true
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 34.61,
+    "fim": 35.49,
+    "palavras": [
+     {
+      "texto": "e",
+      "t": 34.61,
+      "marca": false
+     },
+     {
+      "texto": "pra",
+      "t": 34.75,
+      "marca": false
+     },
+     {
+      "texto": "IA",
+      "t": 34.91,
+      "marca": true
+     },
+     {
+      "texto": "funcionar",
+      "t": 35.03,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 35.49,
+    "fim": 36.37,
+    "palavras": [
+     {
+      "texto": "bem,",
+      "t": 35.49,
+      "marca": false
+     },
+     {
+      "texto": "ela",
+      "t": 35.93,
+      "marca": false
+     },
+     {
+      "texto": "precisa",
+      "t": 36.09,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 36.37,
+    "fim": 37.34,
+    "palavras": [
+     {
+      "texto": "de",
+      "t": 36.37,
+      "marca": false
+     },
+     {
+      "texto": "alguma",
+      "t": 36.65,
+      "marca": false
+     },
+     {
+      "texto": "base.",
+      "t": 36.83,
+      "marca": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 6,
+  "inicio": 37.64,
+  "fim": 42.84,
+  "duracao": 5.2,
+  "take": "131801",
+  "origem": [
+   7.69,
+   12.89
+  ],
+  "fala": "Na Databricks, eu aprendi como Lakehouse resolve o caos de dados espalhados em vários sistemas.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 37.79,
+    "fim": 38.53,
+    "palavras": [
+     {
+      "texto": "Na",
+      "t": 37.79,
+      "marca": false
+     },
+     {
+      "texto": "Databricks,",
+      "t": 37.89,
+      "marca": true
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 38.53,
+    "fim": 39.13,
+    "palavras": [
+     {
+      "texto": "eu",
+      "t": 38.53,
+      "marca": false
+     },
+     {
+      "texto": "aprendi",
+      "t": 38.55,
+      "marca": false
+     },
+     {
+      "texto": "como",
+      "t": 38.87,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 39.13,
+    "fim": 40.23,
+    "palavras": [
+     {
+      "texto": "Lakehouse",
+      "t": 39.13,
+      "marca": true
+     },
+     {
+      "texto": "resolve",
+      "t": 39.87,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 40.23,
+    "fim": 41.03,
+    "palavras": [
+     {
+      "texto": "o",
+      "t": 40.23,
+      "marca": false
+     },
+     {
+      "texto": "caos",
+      "t": 40.47,
+      "marca": true
+     },
+     {
+      "texto": "de",
+      "t": 40.65,
+      "marca": false
+     },
+     {
+      "texto": "dados",
+      "t": 40.83,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 41.03,
+    "fim": 41.79,
+    "palavras": [
+     {
+      "texto": "espalhados",
+      "t": 41.03,
+      "marca": false
+     },
+     {
+      "texto": "em",
+      "t": 41.59,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 41.79,
+    "fim": 42.84,
+    "palavras": [
+     {
+      "texto": "vários",
+      "t": 41.79,
+      "marca": false
+     },
+     {
+      "texto": "sistemas.",
+      "t": 42.25,
+      "marca": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 7,
+  "inicio": 43.14,
+  "fim": 47.88,
+  "duracao": 4.74,
+  "take": "131801",
+  "origem": [
+   13.11,
+   17.85
+  ],
+  "fala": "Ele reúne e organiza tudo em um só lugar, pronto para que todo mundo possa utilizar.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 43.29,
+    "fim": 44.07,
+    "palavras": [
+     {
+      "texto": "Ele",
+      "t": 43.29,
+      "marca": false
+     },
+     {
+      "texto": "reúne",
+      "t": 43.61,
+      "marca": false
+     },
+     {
+      "texto": "e",
+      "t": 43.93,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 44.07,
+    "fim": 44.85,
+    "palavras": [
+     {
+      "texto": "organiza",
+      "t": 44.07,
+      "marca": false
+     },
+     {
+      "texto": "tudo",
+      "t": 44.41,
+      "marca": true
+     },
+     {
+      "texto": "em",
+      "t": 44.65,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 44.85,
+    "fim": 45.97,
+    "palavras": [
+     {
+      "texto": "um",
+      "t": 44.85,
+      "marca": false
+     },
+     {
+      "texto": "só",
+      "t": 44.95,
+      "marca": false
+     },
+     {
+      "texto": "lugar,",
+      "t": 45.13,
+      "marca": true
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 45.97,
+    "fim": 46.59,
+    "palavras": [
+     {
+      "texto": "pronto",
+      "t": 45.97,
+      "marca": false
+     },
+     {
+      "texto": "para",
+      "t": 46.19,
+      "marca": false
+     },
+     {
+      "texto": "que",
+      "t": 46.43,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 46.59,
+    "fim": 47.31,
+    "palavras": [
+     {
+      "texto": "todo",
+      "t": 46.59,
+      "marca": false
+     },
+     {
+      "texto": "mundo",
+      "t": 46.75,
+      "marca": false
+     },
+     {
+      "texto": "possa",
+      "t": 47.01,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 47.31,
+    "fim": 47.88,
+    "palavras": [
+     {
+      "texto": "utilizar.",
+      "t": 47.31,
+      "marca": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 8,
+  "inicio": 48.18,
+  "fim": 50.5,
+  "duracao": 2.32,
+  "take": "131801",
+  "origem": [
+   18.19,
+   20.51
+  ],
+  "fala": "É uma peça chave na engenharia de dados.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 48.33,
+    "fim": 48.99,
+    "palavras": [
+     {
+      "texto": "É",
+      "t": 48.33,
+      "marca": false
+     },
+     {
+      "texto": "uma",
+      "t": 48.49,
+      "marca": false
+     },
+     {
+      "texto": "peça",
+      "t": 48.63,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 48.99,
+    "fim": 49.57,
+    "palavras": [
+     {
+      "texto": "chave",
+      "t": 48.99,
+      "marca": true
+     },
+     {
+      "texto": "na",
+      "t": 49.41,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 49.57,
+    "fim": 50.5,
+    "palavras": [
+     {
+      "texto": "engenharia",
+      "t": 49.57,
+      "marca": false
+     },
+     {
+      "texto": "de",
+      "t": 49.93,
+      "marca": false
+     },
+     {
+      "texto": "dados.",
+      "t": 50.15,
+      "marca": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 9,
+  "inicio": 50.8,
+  "fim": 59.76,
+  "duracao": 8.96,
+  "take": "131819",
+  "origem": [
+   1.21,
+   10.17
+  ],
+  "fala": "Agora, os meus próximos passos serão criar um projeto utilizando IA e dados para que eles possam conversar entre si e entregar um produto final.",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 50.95,
+    "fim": 52.01,
+    "palavras": [
+     {
+      "texto": "Agora,",
+      "t": 50.95,
+      "marca": false
+     },
+     {
+      "texto": "os",
+      "t": 51.69,
+      "marca": false
+     },
+     {
+      "texto": "meus",
+      "t": 51.77,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 52.01,
+    "fim": 53.27,
+    "palavras": [
+     {
+      "texto": "próximos",
+      "t": 52.01,
+      "marca": false
+     },
+     {
+      "texto": "passos",
+      "t": 52.45,
+      "marca": false
+     },
+     {
+      "texto": "serão",
+      "t": 52.67,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 3,
+    "inicio": 53.27,
+    "fim": 54.27,
+    "palavras": [
+     {
+      "texto": "criar",
+      "t": 53.27,
+      "marca": false
+     },
+     {
+      "texto": "um",
+      "t": 53.67,
+      "marca": false
+     },
+     {
+      "texto": "projeto",
+      "t": 53.91,
+      "marca": true
+     }
+    ]
+   },
+   {
+    "bloco": 4,
+    "inicio": 54.27,
+    "fim": 56.13,
+    "palavras": [
+     {
+      "texto": "utilizando",
+      "t": 54.27,
+      "marca": false
+     },
+     {
+      "texto": "IA",
+      "t": 54.83,
+      "marca": true
+     },
+     {
+      "texto": "e",
+      "t": 55.37,
+      "marca": false
+     },
+     {
+      "texto": "dados",
+      "t": 55.73,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 5,
+    "inicio": 56.13,
+    "fim": 57.29,
+    "palavras": [
+     {
+      "texto": "para",
+      "t": 56.13,
+      "marca": false
+     },
+     {
+      "texto": "que",
+      "t": 56.65,
+      "marca": false
+     },
+     {
+      "texto": "eles",
+      "t": 56.75,
+      "marca": false
+     },
+     {
+      "texto": "possam",
+      "t": 56.97,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 6,
+    "inicio": 57.29,
+    "fim": 58.59,
+    "palavras": [
+     {
+      "texto": "conversar",
+      "t": 57.29,
+      "marca": false
+     },
+     {
+      "texto": "entre",
+      "t": 57.77,
+      "marca": false
+     },
+     {
+      "texto": "si",
+      "t": 58.05,
+      "marca": false
+     },
+     {
+      "texto": "e",
+      "t": 58.31,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 7,
+    "inicio": 58.59,
+    "fim": 59.76,
+    "palavras": [
+     {
+      "texto": "entregar",
+      "t": 58.59,
+      "marca": false
+     },
+     {
+      "texto": "um",
+      "t": 58.83,
+      "marca": false
+     },
+     {
+      "texto": "produto",
+      "t": 59.01,
+      "marca": true
+     },
+     {
+      "texto": "final.",
+      "t": 59.25,
+      "marca": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "cena": 10,
+  "inicio": 60.06,
+  "fim": 61.4,
+  "duracao": 1.34,
+  "take": "131819",
+  "origem": [
+   10.41,
+   11.75
+  ],
+  "fala": "Me segue aí para acompanhar!",
+  "blocos": [
+   {
+    "bloco": 1,
+    "inicio": 60.21,
+    "fim": 60.65,
+    "palavras": [
+     {
+      "texto": "Me",
+      "t": 60.21,
+      "marca": false
+     },
+     {
+      "texto": "segue",
+      "t": 60.33,
+      "marca": false
+     },
+     {
+      "texto": "aí",
+      "t": 60.47,
+      "marca": false
+     }
+    ]
+   },
+   {
+    "bloco": 2,
+    "inicio": 60.65,
+    "fim": 61.4,
+    "palavras": [
+     {
+      "texto": "para",
+      "t": 60.65,
+      "marca": false
+     },
+     {
+      "texto": "acompanhar!",
+      "t": 60.77,
+      "marca": true
+     }
+    ]
+   }
+  ]
+ }
+]

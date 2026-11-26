@@ -1,0 +1,21 @@
+{
+  "_sobre": "Sons do SFX Kit (Wyzowl, CC0, github.com/wyzowl/sfx-kit) usados pela reel-makerman. 'rmk sons-setup' baixa so estes arquivos (versao fixada em 'commit'), converte e grava em assets/sfx/<prefixo>-<nome>.wav. Troque um id por outro do catalogo (catalogue.md do kit) e rode sons-setup de novo.",
+  "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+  "sons": {
+    "troca":    "whoosh-fast-medium",
+    "clique":   "click-mouse-medium",
+    "etiqueta": "pop-medium-in",
+    "selo":     "impact-medium-firm",
+    "digita":   "keyboard-typing-quick-short",
+    "junta":    "zip-in-medium",
+    "pop":      "pop-small-in",
+    "passa":    "whoosh-medium-soft",
+    "check":    "writing-marker-tick",
+    "ding":     "tone-ding-high",
+    "sucesso":  "notification-success-soft",
+    "contagem": "data-countup-medium",
+    "barra":    "data-bar-grow",
+    "brilho":   "shimmer-short-soft",
+    "assinatura": "sting-tech-short"
+  }
+}

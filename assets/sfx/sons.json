@@ -1,0 +1,94 @@
+{
+  "_fonte": "SFX Kit by Wyzowl (CC0) github.com/wyzowl/sfx-kit",
+  "_commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+  "troca": {
+    "id": "whoosh-fast-medium",
+    "dur": 0.252,
+    "sync": 0.096,
+    "vozDb": -3
+  },
+  "clique": {
+    "id": "click-mouse-medium",
+    "dur": 0.092,
+    "sync": 0.009,
+    "vozDb": -1
+  },
+  "etiqueta": {
+    "id": "pop-medium-in",
+    "dur": 0.06,
+    "sync": 0.011,
+    "vozDb": -2
+  },
+  "selo": {
+    "id": "impact-medium-firm",
+    "dur": 0.175,
+    "sync": 0.012,
+    "vozDb": -3
+  },
+  "digita": {
+    "id": "keyboard-typing-quick-short",
+    "dur": 0.73,
+    "sync": 0,
+    "vozDb": -1
+  },
+  "junta": {
+    "id": "zip-in-medium",
+    "dur": 0.349,
+    "sync": 0.233,
+    "vozDb": -3
+  },
+  "pop": {
+    "id": "pop-small-in",
+    "dur": 0.04,
+    "sync": 0.01,
+    "vozDb": -2
+  },
+  "passa": {
+    "id": "whoosh-medium-soft",
+    "dur": 0.543,
+    "sync": 0.229,
+    "vozDb": -2
+  },
+  "check": {
+    "id": "writing-marker-tick",
+    "dur": 0.243,
+    "sync": 0.15,
+    "vozDb": -1
+  },
+  "ding": {
+    "id": "tone-ding-high",
+    "dur": 0.812,
+    "sync": 0,
+    "vozDb": -3
+  },
+  "sucesso": {
+    "id": "notification-success-soft",
+    "dur": 0.53,
+    "sync": 0,
+    "vozDb": -3
+  },
+  "contagem": {
+    "id": "data-countup-medium",
+    "dur": 1.222,
+    "sync": 0,
+    "vozDb": -2
+  },
+  "barra": {
+    "id": "data-bar-grow",
+    "dur": 0.35,
+    "sync": 0.328,
+    "vozDb": -2
+  },
+  "brilho": {
+    "id": "shimmer-short-soft",
+    "dur": 0.478,
+    "sync": 0.012,
+    "vozDb": -3
+  },
+  "assinatura": {
+    "id": "sting-tech-short",
+    "dur": 3.143,
+    "sync": 0.155,
+    "vozDb": -6
+  }
+}
